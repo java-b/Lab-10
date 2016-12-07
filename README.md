@@ -13,5 +13,5 @@
 >![alt tag](https://github.com/java-b/Lab-10/blob/master/Cal1.png)     
 >输入3    
 >![alt tag](https://github.com/java-b/Lab-10/blob/master/Cal2.png)          
->输入等号  
+>输入等号     
 >![alt tag](https://github.com/java-b/Lab-10/blob/master/Cal3.png)  
