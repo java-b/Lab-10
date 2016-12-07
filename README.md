@@ -10,8 +10,8 @@
 >例如计算7+3，首先输入7。  
 >![alt tag](https://github.com/java-b/Lab-10/blob/master/Cal1.png)  
 >输入加号  
->![alt tag](https://github.com/java-b/Lab-10/blob/master/Cal1.png)  
->输入3  
->![alt tag](https://github.com/java-b/Lab-10/blob/master/Cal2.png)   
+>![alt tag](https://github.com/java-b/Lab-10/blob/master/Cal1.png)     
+>输入3    
+>![alt tag](https://github.com/java-b/Lab-10/blob/master/Cal2.png)          
 >输入等号  
 >![alt tag](https://github.com/java-b/Lab-10/blob/master/Cal3.png)  
