@@ -5,7 +5,7 @@
 >![alt tag](https://github.com/java-b/Lab-10/blob/master/Cal.png)
 
 ##要求
->参考标准计算器，CE需要清空计算器暂存的数据和操作，输入框每次只能显示一个数字，不可显示运算符号，无需考虑非法输入。 
+>参考标准计算器，CE需要清空计算器暂存的数据和操作，文本框每次只能显示一个数字且只能通过点击按钮输入，不可显示运算符号。 
 
 >例如计算7+3，首先输入7。  
 >![alt tag](https://github.com/java-b/Lab-10/blob/master/Cal1.png)  
