@@ -5,7 +5,7 @@
 >![alt tag](https://github.com/java-b/Lab-10/blob/master/Cal.png)
 
 ##要求
->参考标准计算器，CE需要清空计算器暂存的数据和操作，输入框每次只能显示一个数字，不可显示运算符号。 
+>参考标准计算器，CE需要清空计算器暂存的数据和操作，输入框每次只能显示一个数字，不可显示运算符号，无需考虑非法输入。 
 
 >例如计算7+3，首先输入7。  
 >![alt tag](https://github.com/java-b/Lab-10/blob/master/Cal1.png)  
@@ -14,4 +14,5 @@
 >输入3    
 >![alt tag](https://github.com/java-b/Lab-10/blob/master/Cal2.png)          
 >输入等号     
->![alt tag](https://github.com/java-b/Lab-10/blob/master/Cal3.png)  
+>![alt tag](https://github.com/java-b/Lab-10/blob/master/Cal3.png)   
+>此结果可以作为下一次计算的输入   
